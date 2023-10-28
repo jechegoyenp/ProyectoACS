@@ -19,4 +19,5 @@ require_once "Modelos/CitasM.php";
 require_once "Modelos/AdministradoresM.php";
 require_once "Modelos/OrganizacionM.php";
 $plantilla = new Plantilla();  // creamos objeto  para la clase (la clase estara en el controlador)
-$plantilla -> LlamarPLantilla(); //objeto acceda al metodo
+$plantilla -> LlamarPLantilla(); //objeto acceda al metodo 
+// aca estoy agregando un linea a un archivo octubre 27 2023
