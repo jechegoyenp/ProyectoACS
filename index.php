@@ -22,3 +22,4 @@ $plantilla = new Plantilla();  // creamos objeto  para la clase (la clase estara
 $plantilla -> LlamarPLantilla(); //objeto acceda al metodo 
 // aca estoy agregando un linea a un archivo octubre 27 2023 
 //Segunda modificacion.
+// 3ra modificacion
